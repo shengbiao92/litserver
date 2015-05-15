@@ -1,4 +1,4 @@
-litserver is a simple webserver.
+litserver is a simple webserver,only for learning.
 The port and root path of the server could be configurable in config.ini
 I would improve it by using epoll and making it can handle php script and image.
 
